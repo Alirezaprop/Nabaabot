@@ -1,2 +1,3 @@
-# Nabaabot
-سورس ربات NabaaBot بر پایه GPT و تلگرام
+# NabaAbot
+
+Private assistant powered by GPT, with payment and message limits.
